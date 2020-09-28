@@ -1,0 +1,3 @@
+[submodule "continuous-deployment"]
+	path = continuous-deployment
+	url = git@github.com:operate-first/continuous-deployment.git

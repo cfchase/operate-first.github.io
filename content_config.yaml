@@ -10,7 +10,7 @@
   dir: content
   toc: content/toc.yaml
 
-#- name: continuous deployment docs
-#  dir: continuous-deployment/docs
-#  urlPrefix: cd
-#  toc: continuous-deployment/docs/toc.yaml
+- name: continuous deployment docs
+  dir: continuous-deployment/docs
+  urlPrefix: cd
+  toc: continuous-deployment/docs/toc.yaml
