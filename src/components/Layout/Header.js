@@ -6,6 +6,7 @@ export const Header = ({ isNavOpen, onNavToggle }) => (
   <PageHeader
     className="header"
     logo={<Brand src={logo} alt="ODH Logo" />}
+    logoProps={{ href: "/" }}
     showNavToggle
     isNavOpen={isNavOpen}
     onNavToggle={onNavToggle}
